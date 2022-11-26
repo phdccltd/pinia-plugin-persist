@@ -51,8 +51,7 @@
   },
   "peerDependencies": {
     "@pinia/nuxt": "^0.4.5",
-    "@vue/composition-api": "^1.0.0",
-    "vue": "^2.0.0 || >=3.0.0"
+    "@vue/composition-api": "^1.0.0"
   },
   "peerDependenciesMeta": {
     "@vue/composition-api": {
