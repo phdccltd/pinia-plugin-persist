@@ -50,8 +50,7 @@
     "vue-demi": "^0.12.1"
   },
   "peerDependencies": {
-    "@pinia/nuxt": "^0.4.5",
-    "@vue/composition-api": "^1.0.0"
+    "@pinia/nuxt": "^0.4.5"
   },
   "peerDependenciesMeta": {
     "@vue/composition-api": {
